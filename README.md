@@ -20,6 +20,8 @@ Instruction Level Parallelism Part IV, Register Renaming
 
 Superscalar and VLIW Processors
 
+https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S09/lectures/
+
 OSS CVC:
 
 Your email address has been confirmed.  To download OSS CVC, right click on this URL and select the "Save Link As" menu item.
