@@ -27,7 +27,9 @@ Performance Impacts of Non-blocking Caches in Out-of-order Processors:
 https://pdfs.semanticscholar.org/eec2/b32eb3156700f8318b6097a81ed07e91669b.pdf
 
 
+https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S09/lectures/
 
+https://inst.eecs.berkeley.edu/~cs152/sp18/lectures/L12-Superscalars.pdf
 
 
 
