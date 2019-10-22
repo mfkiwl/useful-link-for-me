@@ -13,6 +13,10 @@ COSC 6385 Computer Architecture - Spring 2012:
 
 http://www2.cs.uh.edu/~gabriel/courses/cosc6385_s12/
 
+Store-to-Load Forwarding and Memory Disambiguation in x86 Processors:
+
+http://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/
+
 OSS CVC:
 
 Your email address has been confirmed.  To download OSS CVC, right click on this URL and select the "Save Link As" menu item.
