@@ -1,34 +1,17 @@
 
 Something Articles about OoO:
 
-A Highly Productive Implementation of an Out-of-Order Processor Generator
+COSC 6385 Computer Architecture - Tomasulo’s Algorithm (II):
 
-A First-Order Superscalar Processor Model
+http://www2.cs.uh.edu/~gabriel/courses/cosc6385_s12/CA_11_Tomasulo_2.pdf
 
-Instruction-Level Parallelism and Superscalar Processors
+15-740/18-740 Computer Architecture Fall 2011:
 
-Memory Accesses in OoO Execution
+https://www.archive.ece.cmu.edu/~ece740/f11/doku.php?id=start
 
-Efficient Methods for Out-of-Order Load_Store Execution for High-Performance Soft Processors
+COSC 6385 Computer Architecture - Spring 2012:
 
-A MULTIPORTED NONBLOCKING CACHE FOR A SUPERSCALAR UNIPROPROCESSOR
-
-Instruction Level Parallelism Part IV, Register Renaming
-
-Superscalar and VLIW Processors
-
-https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S09/lectures/
-
-Performance Impacts of Non-blocking Caches in Out-of-order Processors:
-
-https://pdfs.semanticscholar.org/eec2/b32eb3156700f8318b6097a81ed07e91669b.pdf
-
-
-https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S09/lectures/
-
-https://inst.eecs.berkeley.edu/~cs152/sp18/lectures/L12-Superscalars.pdf
-
-
+http://www2.cs.uh.edu/~gabriel/courses/cosc6385_s12/
 
 OSS CVC:
 
