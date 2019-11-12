@@ -36,3 +36,7 @@ https://www.segger.com/products/debug-probes/j-link/models/model-overview/
 What is the true interrupt latency of Cortex-M3 and Cortex-M4 for interrupt entry and exit?
 
 https://developer.arm.com/docs/103489845/latest/what-is-the-true-interrupt-latency-of-cortex-m3-and-cortex-m4-for-interrupt-entry-and-exit
+
+Intel’s Haswell CPU Microarchitecture:
+
+https://www.realworldtech.com/haswell-cpu/
