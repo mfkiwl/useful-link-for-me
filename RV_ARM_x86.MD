@@ -40,3 +40,11 @@ https://developer.arm.com/docs/103489845/latest/what-is-the-true-interrupt-laten
 Intel’s Haswell CPU Microarchitecture:
 
 https://www.realworldtech.com/haswell-cpu/
+
+Announcing the Winners of the RISC-V Soft CPU Contest(2019):
+
+https://riscv.org/2019/10/announcing-the-winners-of-the-risc-v-soft-cpu-contest/
+
+RISC-V软核大赛获奖者心得(2018):
+
+https://cnrv.io/articles/riscv-softcore-contest-learned
