@@ -48,3 +48,6 @@ https://riscv.org/2019/10/announcing-the-winners-of-the-risc-v-soft-cpu-contest/
 RISC-V软核大赛获奖者心得(2018):
 
 https://cnrv.io/articles/riscv-softcore-contest-learned
+
+LATENCY, THROUGHPUT, AND PORT USAGE INFORMATION of X86:
+https://uops.info/
