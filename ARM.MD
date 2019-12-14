@@ -9,3 +9,8 @@ https://developer.arm.com/docs/103489845/latest/what-is-the-true-interrupt-laten
 
 A Beginner's Guide on Interrupt Latency - and Interrupt Latency of the Arm Cortex-M processors:
 https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/beginner-guide-on-interrupt-latency-and-interrupt-latency-of-the-arm-cortex-m-processors
+
+
+ARM A Series Block Diagram:
+
+https://pc.watch.impress.co.jp/extra/pcw/search/?q=Cortex
