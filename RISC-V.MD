@@ -21,3 +21,7 @@ https://cnrv.io/articles/riscv-softcore-contest-learned
 Interrupts on the SiFive E2 Series:
 
 https://www.sifive.com/blog/interrupts-on-the-sifive-e2-series
+
+NOEL-V Processor from Cobham:
+
+https://www.gaisler.com/index.php/products/processors/noel-v
