@@ -14,3 +14,7 @@ https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/
 ARM A Series Block Diagram:
 
 https://pc.watch.impress.co.jp/extra/pcw/search/?q=Cortex
+
+Why are conditionally executed instructions not present in later ARM instruction sets?
+
+https://stackoverflow.com/questions/22168992/why-are-conditionally-executed-instructions-not-present-in-later-arm-instruction
